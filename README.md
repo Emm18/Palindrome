@@ -1,7 +1,7 @@
-Palindrome
+#Palindrome
 
-  Get all palindrome in a word
-  Example :
+  #Get all palindrome in a word
+  #Example :
           Input = Hannah
           Output = anna
                    Hannah
