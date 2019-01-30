@@ -1,5 +1,7 @@
 Palindrome
-  Get all palindrome in a word
+ 
+ 
+ Get all palindrome in a word
   Example :
   
           Input = Hannah          
