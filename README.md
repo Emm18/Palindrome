@@ -1,12 +1,8 @@
-#Palindrome
-
+Palindrome
   Get all palindrome in a word
   Example :
   
-          Input = Hannah
-          
+          Input = Hannah          
           Output = anna
                    Hannah
-  
-  
-  Limitations = No Validations yet
+          Program Limitations = No Validations yet
